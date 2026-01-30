@@ -16,5 +16,11 @@ This repository contains my manual software testing work for a web application.
 - Test case design
 - Bug reporting
 - Understanding of user flows
+- 
+## Test Cases
+- Created and executed 10 manual test cases for the OrangeHRM demo application
+- Covered login, dashboard, navigation, form validation, logout, and session handling
+- Included positive, negative, and boundary scenarios
+
 
 This project was created to demonstrate my readiness for a remote QA / software testing internship.
